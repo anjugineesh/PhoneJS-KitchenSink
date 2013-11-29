@@ -13,7 +13,7 @@
             height: "100%",
             zoom: 13,
             markers: [
-              { label: "A", location: [40.537102, -73.990318] },
+              { label: "A",icon:"", location: [40.537102, -73.990318] },
               { label: "B", location: [40.749825, -73.987963] },
               { label: "С", location: [40.755823, -73.986397] }
             ],
